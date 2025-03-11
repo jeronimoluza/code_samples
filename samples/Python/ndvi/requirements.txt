@@ -1,0 +1,15 @@
+pandas
+pyhdf
+numpy
+h3
+xarray
+rioxarray
+shapely
+geopandas
+earthaccess
+ipykernel
+tqdm
+joblib
+matplotlib
+mpl_tools
+basemap
